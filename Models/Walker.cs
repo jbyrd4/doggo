@@ -1,4 +1,5 @@
-﻿namespace DogGo.Models
+﻿using System.Linq;
+namespace DogGo.Models
 {
     public class Walker
     {
